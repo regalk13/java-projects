@@ -29,6 +29,7 @@ Contributions are what make the open source community such an amazing place to b
 
 - If you have an unsolvable error, my twitter is open to questions.
 
+- Src is for the code, lib is necessary libraries and outside is .jar.
 ### Contact
 
 Twitter -@regalk2
